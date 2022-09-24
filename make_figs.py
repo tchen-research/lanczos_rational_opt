@@ -6,6 +6,8 @@ files = [
     'fig_delay',
     'fig_cg2_compare',
     'fig_restart_compare',
+    'fig_2norm_opt',
+    'timing',
 ]
 
 for file in files:
